@@ -1,0 +1,8 @@
+version: '3.8'
+
+services:
+  exercise-timer:
+    image: dazzakiller/exercise-interval-timer:latest
+    ports:
+      - "3000:3000"
+    restart: unless-stopped
