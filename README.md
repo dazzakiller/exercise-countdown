@@ -23,3 +23,6 @@ A clean and modern interval timer built with React and Tailwind CSS, perfect for
 
 ### Installation
 1. Clone the repository
+2. Run `npm install` to install the dependencies
+3. Run `npm run dev` to start the development server
+
